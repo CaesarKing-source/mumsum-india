@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+localhost	TRUE	/baby-products/	FALSE	1999999999	woocommerce_items_in_cart	1
+localhost	TRUE	/baby-products/	FALSE	1999999999	woocommerce_cart_hash	75c821f81eb73d473b6a2b00728f013a
+localhost	TRUE	/baby-products/	FALSE	1999999999	wp_woocommerce_session_9884a4133fe91ffcc36eb5d1c1172767	t_9dfe3731dbfede609e54209698f07a%7C%7C1654424638%7C%7C1654421038%7C%7C06d383247534446410d7c5ec4d9361ae
+

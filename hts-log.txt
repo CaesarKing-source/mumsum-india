@@ -1,0 +1,28 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 03 Jun 2022 15:44:34 at http://localhost/baby-products/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://localhost/baby-products/ -O1 "C:\My Web Sites\http___localhost_baby-products_" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:52:33	Warning: 	Found for localhost/baby-products/?page_id=7
+15:52:33	Warning: 	File has moved from localhost/baby-products/?page_id=7 to http://localhost/baby-products/?post_type=product
+15:54:07	Error: 	"Bad Request" (400) at link localhost/baby-products/wp-admin/admin-ajax.php?action=rest-nonce (from localhost/baby-products/)
+15:54:37	Warning: 	Moved Permanently for localhost/baby-products/?p=60
+15:54:37	Warning: 	File has moved from localhost/baby-products/?p=60 to http://localhost/baby-products/?page_id=60
+15:54:37	Warning: 	Moved Permanently for localhost/baby-products/?p=17
+15:54:37	Warning: 	File has moved from localhost/baby-products/?p=17 to http://localhost/baby-products/?page_id=17
+15:54:37	Warning: 	Moved Permanently for localhost/baby-products/?p=224
+15:54:37	Warning: 	File has moved from localhost/baby-products/?p=224 to http://localhost/baby-products/?page_id=224
+15:54:37	Warning: 	Moved Permanently for localhost/baby-products/?p=8
+15:54:37	Warning: 	File has moved from localhost/baby-products/?p=8 to http://localhost/baby-products/?page_id=8
+15:56:17	Error: 	"Not Found" (404) at link localhost/baby-products/wp-content/uploads/img/bg.jpg (from localhost/baby-products/wp-content/uploads/essential-addons-elementor/734e5f942.min.css?ver=1654251384)
+15:56:18	Warning: 	Moved Permanently for localhost/baby-products/?feed=rss2&p=119
+15:56:18	Warning: 	File has moved from localhost/baby-products/?feed=rss2&p=119 to http://localhost/baby-products/?product=mumsum-ayurvedic-baby-massage-oil-100-ml&feed=rss2
+15:56:26	Warning: 	Moved Permanently for localhost/baby-products/?p=119
+15:56:26	Warning: 	File has moved from localhost/baby-products/?p=119 to http://localhost/baby-products/?product=mumsum-ayurvedic-baby-massage-oil-100-ml
+15:56:48	Error: 	"Not Found" (404) at link localhost/baby-products/?product=mumsum-ayurvedic-baby-massage-oil-100-ml%26feed=rss2 (from localhost/baby-products/?feed=rss2&p=119)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 hours 12 minutes 41 seconds : 299 links scanned, 288 files written (30719722 bytes overall) [30913030 bytes received at 2673 bytes/sec], 31000 bytes transferred using HTTP compression in 1 files, ratio 22%, 2.7 requests per connection
+(3 errors, 14 warnings, 0 messages)
